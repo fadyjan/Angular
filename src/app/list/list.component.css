@@ -1,0 +1,18 @@
+#list
+{
+    height: 5cm;
+    width: 50%;
+    
+    border: 1px solid  hsl(329, 70%, 58%);
+    padding: 10px;
+    border-radius: 50px 50px;
+    background-color: hsl(228, 28%, 20%);
+    margin-top: 15%;
+    margin-left: 25%;
+}
+
+a{
+    color: white;
+    position: relative;
+    left: 45%;
+}
